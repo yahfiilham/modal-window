@@ -137,6 +137,6 @@ ol li {
 
 @media (max-width: 576px) {
   .modal {
-    padding: 4rem;
+    padding: 6rem 4rem 4rem;
   }
 }
